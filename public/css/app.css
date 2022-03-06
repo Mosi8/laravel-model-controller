@@ -1,0 +1,16 @@
+.carte {
+  background-color: #1884f5;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.carte p {
+  font-size: 15px;
+}
+
+.carte p span {
+  font-weight: bold;
+  font-size: 17px;
+}
+
